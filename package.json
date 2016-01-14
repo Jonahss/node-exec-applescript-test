@@ -1,0 +1,15 @@
+{
+  "name": "exec-applescript-test",
+  "version": "1.0.0",
+  "description": "run an applescript to see if a security prompt is brought up",
+  "main": "exec-applescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonahss",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "teen_process": "^1.5.1"
+  }
+}
